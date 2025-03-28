@@ -1,11 +1,12 @@
 # Portfolio Website
 
-This is Aryan Narayan's personal portfolio website, showcasing skills, projects, education, and professional experience as a Full Stack Developer and Android App Developer.
+This is Aryan Narayan's personal portfolio website, showcasing skills, projects, education, and professional experience.
 
 ## Live Demo
 
 Check out the live demo [here](https://aryannarayan.netlify.app).
----
+
+
 
 ## 📌 Tech Stack
 
