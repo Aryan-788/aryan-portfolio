@@ -2,8 +2,9 @@
 
 This is Aryan Narayan's personal portfolio website, showcasing skills, projects, education, and professional experience as a Full Stack Developer and Android App Developer.
 
-<a href="[https://aryan-portfolio.netlify.app/](https://aryannarayan.netlify.app/)" target="_blank">**Visit Now** 🚀</a>
+## Live Demo
 
+Check out the live demo [here](https://aryannarayan.netlify.app).
 ---
 
 ## 📌 Tech Stack
@@ -14,11 +15,6 @@ This is Aryan Narayan's personal portfolio website, showcasing skills, projects,
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 
 ---
-
-## 📌 Sneak Peek of Main Page 🙈
-
-### Mockup Preview:
-![mockup]()
 
 ### Screenshots:
 #### Hero Section:
