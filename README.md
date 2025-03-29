@@ -4,7 +4,7 @@ This is Aryan Narayan's personal portfolio website, showcasing skills, projects,
 
 ## Live Demo
 
-Check out the live demo [here](https://aryannarayan.netlify.app).
+Check out the live demo [here](https://aryan-narayan.vercel.app/).
 
 
 
